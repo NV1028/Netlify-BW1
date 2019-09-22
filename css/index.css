@@ -14,7 +14,7 @@
   width: 48%;
   height: 80%;
 }
-.home .content-section .img-content p {
+.home .content-section .img-content .right-of-photo-text {
   display: flex;
   flex-wrap: wrap;
   width: 50%;
