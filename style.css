@@ -181,12 +181,6 @@ text{
 
 @media only screen and (max-width:749px) {
   .background {
-    /* background-attachment: inherit; */
-    /* display: none; */
-    /* background-position: inherit; */
-    /* transition: inherit; */
-    position: inherit;
-    /* background-size:  inherit; */
-    /* will-change: inherit; */
+    display: none;
   }
 }
