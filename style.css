@@ -181,17 +181,17 @@ text{
 .mobile{
   display:none;
 }
-@media only screen and (min-width : 320px) and (max-width : 480px) {
+
+
+@media(max-width: 900px) {
   .background {
     display: none;
   }
+
+  img{
+    display:flex;
+    border-radius: 50%;
+  }
+  
 }
 
-@media only screen and (min-width : 320px) and (max-width : 480px) {
-
-img{
-  display:flex;
-  border-radius: 50%;
-}
-
-}
