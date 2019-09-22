@@ -184,7 +184,7 @@ text{
 
 
 @media(max-width: 900px) {
-  .background {
+  .container{
     display: none;
   }
 
