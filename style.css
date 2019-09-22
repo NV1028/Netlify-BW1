@@ -183,15 +183,3 @@ text{
 }
 
 
-@media(max-width: 900px) {
-  .container{
-    display: none;
-  }
-
-  img{
-    display:flex;
-    border-radius: 50%;
-  }
-  
-}
-
