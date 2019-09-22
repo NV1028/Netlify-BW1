@@ -1,0 +1,24 @@
+.home .content-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.home .content-section .img-content {
+  display: flex;
+  flex-wrap: wrap;
+  width: 24%;
+  height: 20%;
+}
+.home .content-section .img-content img {
+  display: flex;
+  width: 48%;
+  height: 80%;
+}
+.home .content-section .img-content p {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  align-items: center;
+  margin-left: 2%;
+  font-size: 100%;
+}
